@@ -1,5 +1,5 @@
 Dr. Xing Liu's personal website was built upon the "Editorial" template by HTML5 UP.
-Last updated by Xing Liu on 10/19/2023
+Last updated by Xing Liu on 09/12/2024
 
 ************************************************************************************
 Editorial by HTML5 UP
